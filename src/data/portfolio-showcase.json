@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/img/astrid/1.png",
+    "img_horizontal": "assets/img/astrid/2.png",
+    "project_link" : "/astrid-details",
+    "project_title" : "Astrid - Portfolio Photographique",
+    "category": "Développement web",
+    "tag": "Développement web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web development",
+    "horizontal_title": "Corporate Brand Revitalization.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/arise/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-02.jpg",
+    "project_link" : "/arise-details",
+    "project_title" : "Arise - Agence de marketing digitale",
+    "category": "Développement web",
+    "tag": "Développement web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web development",
+    "horizontal_title": "Sculpting the Future.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 3,
+    "img": "/assets/img/garoa/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-03.jpg",
+    "project_link" : "/garoa-details",
+    "project_title" : "Garoa - Magasin de cosmétiques",
+    "category": "Ecommerce",
+    "tag": "Ecommerce",
+    "title": "Digital Masterpieces",
+    "categorySlug": "ecommerce",
+    "horizontal_title": "Corporate Brand Revitalization.",
+    "horizontal_tag": [
+      "Logo",
+      "Palette",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 4,
+    "img": "/assets/img/akram/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-04.jpg",
+    "project_link" : "/akram-details",
+    "project_title" : "Akram - Studio de design intérieur",
+    "category": "Développement web",
+    "tag": "Développement web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web development",
+    "horizontal_title": "Sculpting the Future.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 5,
+    "img": "/assets/img/archi/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-05.jpg",
+    "project_link" : "/archi-details",
+    "project_title" : "Archi - Agence immobilière",
+    "category": "Développement web",
+    "tag": "Développement web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web development",
+    "horizontal_title": "Sculpting the Future.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 6,
+    "img": "assets/img/open_fashinMobile/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-07.jpg",
+    "project_link" : "/open_fashinMobile-details",
+    "project_title" : "Open Fashion Mobile App",
+    "category": "Développement mobile",
+    "tag": "Développement mobile",
+    "title": "Digital Masterpieces",
+    "categorySlug": "mobile development",
+    "horizontal_title": "Sculpting the Future.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 7,
+    "img": "/assets/img/midwest/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "project_link" : "/midwest-details",
+    "project_title" : "Midwest - Agence immobilière",
+    "category": "Développement web",
+    "tag": "Développement web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web development",
+    "horizontal_title": "Corporate Brand Revitalization.igital Solutions.",
+    "horizontal_tag": [
+      "Logo",
+      "Palette",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 8,
+    "img": "/assets/img/saltwater_logo/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "project_link" : "/saltwater_logo-details",
+    "project_title" : "Saltwater - Logo Design",
+    "category": "Design de logo",
+    "tag": "Design de logo",
+    "title": "Digital Masterpieces",
+    "categorySlug": "logo design",
+    "horizontal_title": "Where Vision Meets Technology.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 9,
+    "img": "/assets/img/floridapools/1.png",
+    "img_horizontal": "assets/img/floridapools/2.png",
+    "project_link" : "/floridapools-details",
+    "project_title" : "Florida Pools - Site de service de piscine",
+    "category": "Ecommerce",
+    "tag": "Ecommerce",
+    "title": "Digital Masterpieces",
+    "categorySlug": "ecommerce",
+    "horizontal_title": " NexGen Pioneering Digital Solutions.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 10,
+    "img": "assets/img/alejandre/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-07.jpg",
+    "project_link" : "/alejandre-details",
+    "project_title" : "Alejandre - Site de service de arbres",
+    "category": "Développement web",
+    "tag": "Développement web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web development",
+    "horizontal_title": "Sculpting the Future.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 11,
+    "img": "/assets/img/eventhub/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-03.jpg",
+    "project_link" : "/eventhub-details",
+    "project_title" : "EventHub - Plateforme de gestion d'événements",
+    "category": "Développement mobile",
+    "tag": "Développement mobile",
+    "title": "Digital Masterpieces",
+    "categorySlug": "mobile development",
+    "horizontal_title": "Corporate Brand Revitalization.igital Solutions.",
+    "horizontal_tag": [
+      "Logo",
+      "Palette",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 12,
+    "img": "/assets/img/Arrow_logo/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-01.jpg",
+    "project_link" : "/arrow_logo-details",
+    "project_title" : "Arrow Logo Design",
+    "category": "Design de logo",
+    "tag": "Design de logo",
+    "title": "Digital Masterpieces",
+    "categorySlug": "logo design",
+    "horizontal_title": "Where Vision Meets Technology.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  },
+  {
+    "id": 13,
+    "img": "/assets/img/restaurant/1.png",
+    "img_horizontal": "assets/img/innerpage/hz-sho-05.jpg",
+    "project_link" : "/restaurant-details",
+    "project_title" : "Restaurant - Site de livraison de nourriture",
+    "category": "Développement web",
+    "tag": "Développement web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web development",
+    "horizontal_title": " NexGen Pioneering Digital Solutions.",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Strategy that involves creating and sharing content on social a website's media platforms."
+  }
+]
