@@ -9378,7 +9378,7 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   padding-bottom: 45px;
   margin-bottom: 50px;
   border-bottom: 1px solid var(--border-color2);
-  background-color: var(---dark-white-color);
+  background-color: var(--body-bg1);
   padding-left: 25px;
 }
 @media (max-width: 991px) {
